@@ -1,1 +1,2 @@
-# A-B_Testing_Feature
+# A/B Testing Analysis: Evaluating the Impact of Introducing 'Average Bid' as a New Company Feature for Enhanced Conversions
+The company recently introduced a new bid type, labeled "average bid," as an alternative to the existing bid type, "maximum bid." In order to assess the effectiveness of this new feature, an A/B test was conducted. The primary objective of the test is to determine whether average bidding yields a higher rate of conversions compared to the established maximum bidding method.
